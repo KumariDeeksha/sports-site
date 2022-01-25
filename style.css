@@ -188,4 +188,89 @@
        margin-right: 0vw;
      margin-left: 70vw;
      margin-top: -50vw;
+     height: 50vw;
+     /* margin-top: 2vw; */
+}
+#d1 img{
+   /* border: 2px solid red; */
+   margin-top: 6vw;
+   height: 49vw;
+   width: 33vw;
+}
+#d2{
+    /* border: 2px solid black; */
+    height: 50vw;
+    width: 34%;
+    font-size: 3vw;
+    margin-top: 6vw;
+    
+}
+#d2 h2{
+    margin-top: 0vw;
+    margin-left: 2vw;
+}
+#d3{
+    /* border: 2px solid red; */
+    height: 30.3vw;
+    width: 100%;
+    
+    background-color: rgb(160, 93, 6);
+}
+#d3 h3{
+    font-size: 2vw;
+    color: white;
+    margin-left: 2vw;
+    margin-top: 2vw;
+}
+#d3 h5{
+    font-size: 1.7vw;
+    padding: 1vw;
+    margin-left: 1vw;
+    margin-right: 1vw;
+    color: white;
+    font-weight: 120;
+}
+#d3 button{
+    border: 2px solid white;
+    padding: 0px;
+    height: 4vw;
+    width: 9vw;
+    background-color: rgb(160, 93, 6);
+    color: white;
+    margin-left: 2vw;
+   margin-top: -2vw;
+}
+#d2{
+    margin-left: 33vw;
+    margin-top: -50vw;
+}
+#d4{
+    /* border: 2px solid red; */
+    height: 50vw;
+    width: 32%;
+    background-color: rgb(57, 195, 241);
+    display: flex;
+    float: right;
+    margin-top: -50vw;
+}
+#d4 h3{
+    color: white;
+    font-size: 2.5vw;
+    font-weight: 400;
+    margin-left: 5vw;
+    margin-top: 13vw;
+}
+#d4 h1{
+    color: white;
+    font-size: 8vw;
+    font-weight: 900;
+    margin-left: -17vw;
+    margin-top: 18vw;
+}
+#d4 h4{
+    color: white;
+    font-size: 2vw;
+    margin-left: -16vw;
+    margin-top: 28vw;
+    font-weight: 100;
 }
