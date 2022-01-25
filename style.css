@@ -46,15 +46,16 @@
     width: 100%;
     z-index: -1;
 }
-/* .body {
+.body {
     background-image: url('/img/background.jpg');
     background-repeat: no-repeat;
-    background-size: auto;
-    border: 2px solid red;
+    background-size: contain;
+    /* border: 2px solid red; */
    height: 60vw;
-   width: 100%;
+   margin-left: 4vw;
+   width: 100vw;
     
-} */
+}
 #box1{
     display: flex;
     flex-direction: column;
@@ -415,7 +416,7 @@
     margin-top: 4vw;
 }
 .contact {
-   background:url(/img/foot.jpeg) ;
+   background:url(./img/foot.jpeg) ;
     height: 50vw;
     width: 100%;
     margin-top: 5vw;
@@ -483,4 +484,60 @@
 #x3 img{
     height: 8vw;
     width: 100%;
+}
+.foot{
+    background-color: black;
+    height: 10vw;
+    width: 100%;
+}
+#f1
+{
+    display: inline-block;
+    margin-top: 2vw;
+    margin-left: 35vw;
+    padding: 1vw;
+}
+#tw
+{
+    display: inline-block;
+    padding: 1vw;
+}
+#insta
+{
+    display: inline-block;
+    padding: 1vw;
+}
+#in
+{
+    display: inline-block;
+    padding: 1vw;
+}
+#f1 img{
+    height: 4vw;
+    width: 4vw;
+    border-radius: 5px;
+    display: inline-block;
+    
+}
+#insta img{
+    height: 4vw;
+    width: 4vw;
+    border-radius: 5px;
+    display: inline-block;
+}
+#tw img{
+    height: 4vw;
+    width: 4vw;
+    border-radius: 5px;
+    display: inline-block;
+}
+#in img{
+    height: 4vw;
+    width: 4vw;
+    border-radius: 5px;
+    display: inline-block;
+}
+#f1,#insta,#tw,#in :hover{
+  cursor: pointer;
+  
 }
