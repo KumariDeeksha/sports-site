@@ -298,3 +298,27 @@
     margin-right: 5vw;
     
 }
+.happy{
+    background: url(/img/woman-g36d481402_1920.jpg);
+    height: 60vw;
+    margin-top: 4vw;
+    width: 100%;
+}
+.happy h3{
+  
+    font-size: 2vw;
+    display: flex;
+    float: right;
+    margin-top: 30vw;
+    margin-right: 5vw;
+}
+.happy h1{
+  
+    font-size: 7vw;
+    font-weight: 600;
+    display: flex;
+    float: right;
+    margin-top: 37vw;
+    margin-right: -20vw;
+    
+}
