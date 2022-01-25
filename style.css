@@ -47,7 +47,7 @@
     z-index: -1;
 }
 .body {
-    background-image: url('/img/background.jpg');
+    background-image: url('./img/background.jpg');
     background-repeat: no-repeat;
     background-size: contain;
     /* border: 2px solid red; */
@@ -300,7 +300,7 @@
     
 }
 .happy{
-    background: url(/img/woman-g36d481402_1920.jpg);
+    background: url(./img/woman-g36d481402_1920.jpg);
     height: 60vw;
     margin-top: 4vw;
     width: 100%;
